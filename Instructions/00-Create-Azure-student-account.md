@@ -30,4 +30,4 @@ To begin exploring, go to the **Azure Portal**: [https://portal.azure.com](https
 
 Whenever you sign in to Azure with your Radboud student email, you'll automatically get access to the Azure subscription you just activated.
 
-Continue with the next [step]().
+Continue with the next [step](https://madiepev.github.io/genai-students/Instructions/02-Explore-model-catalog.html).
