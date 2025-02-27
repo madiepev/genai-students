@@ -176,10 +176,4 @@ You've compared two models, which may vary in terms of both their ability to gen
 
 The details and benchmarks provided in the model catalog, along with the ability to visually compare models provides a useful starting point when identifying candidate models for a generative AI solution. You can then test candidate models with a variety of system and user prompts in the chat playground.
 
-## Clean up
-
-If you've finished exploring Azure AI Foundry portal, you should delete the resources you have created in this exercise to avoid incurring unnecessary Azure costs.
-
-1. Open the [Azure portal](https://portal.azure.com) and view the contents of the resource group where you deployed the resources used in this exercise.
-1. On the toolbar, select **Delete resource group**.
-1. Enter the resource group name and confirm that you want to delete it.
+Continue with the next [step](https://madiepev.github.io/genai-students/Instructions/07-Evaluate-prompt-flow.html).
